@@ -3,7 +3,7 @@ from pythonplugins.pluginmanager import PluginManager
 class main(object):
     """Main class on console script"""
 
-    def __init__():
+    def __init__(slef):
         print 'starting main'
         pluginmanager()
 
