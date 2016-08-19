@@ -30,10 +30,7 @@ setup(
         ],
 
         'pythonplugins.plugins': [
-            'plugin1 = pythonplugins.plugins.plugin1:Plugin1'
-        ],
-
-        'pythonplugins.plugins': [
+            'plugin1 = pythonplugins.plugins.plugin1:Plugin1',
             'plugin2 = pythonplugins.plugins.plugin2:Plugin2'
         ],
 
